@@ -5,13 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+Warn-199+,,👿;Thank+You+Everyone)](https://git.io/typing-svg)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="warn-199" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=warn-199" alt="warn-199" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - Contact Me **warncode199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
